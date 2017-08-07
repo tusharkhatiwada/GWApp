@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1091543632896",
+    "project_id": "firebase-gwapp"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091543632896:android:c3eead88efe41454",
+        "android_client_info": {
+          "package_name": "com.gwapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091543632896-5qqmmt1s9m3j1jhscn59lj6ace937du6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gwapp",
+            "certificate_hash": "0c8a12a2d47cde0f09b8c88b949a6a11802c66e9"
+          }
+        },
+        {
+          "client_id": "1091543632896-ca1qek6cqjemtautrev5bm5tklj15d8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGSrcUh0wKdgXxPJ9et-fWpXKA176DQEY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
